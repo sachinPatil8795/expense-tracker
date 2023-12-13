@@ -1,0 +1,14 @@
+.heading {
+  text-align: center;
+}
+.flexItems {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+}

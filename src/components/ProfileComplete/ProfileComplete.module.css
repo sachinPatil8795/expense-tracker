@@ -1,0 +1,16 @@
+.heading {
+  text-align: center;
+}
+.form {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.mainForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+  justify-content: center;
+}
