@@ -39,6 +39,7 @@ export function addExpense({ spend, description, catogary }) {
       dispatch(expensedataActions.manipulateData([...data, dataArr]));
     } else {
       console.log("Error:" + response.data);
+      console.log("Forgot Password")
     }
   };
 }
